@@ -1,0 +1,6 @@
+{
+  "name": "Jelvan Portfolio & AI Companion",
+  "description": "Professional portfolio for Jelvan Ricolcol showcasing digital services, interactive website samples, workplace HR documents, and an intelligent AI chat companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
